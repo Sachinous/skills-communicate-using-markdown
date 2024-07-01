@@ -1,6 +1,3 @@
-
-
-
-``` c
-printf("Hello from GH");
-```
+- [x] Task 1 to be completed
+- [x] Task 2 to be completed
+- [ ] T3
